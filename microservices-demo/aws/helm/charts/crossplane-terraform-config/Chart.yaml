@@ -1,0 +1,4 @@
+name: crossplane-terraform-config
+description: CrossplaneTerraform
+version: 0.0.16
+kubeVersion: ">=1.10.0-0"
